@@ -8,14 +8,7 @@
 
 @section('content')
 <h2>UTM</h2>
-<p>Saya akan bercerita mengenai kampus yang terkenal di Madura yaitu Universitas Trunojoyo Madura (UTM). 
-Buat yang belum tahu wilayah madura, Madura adalah pulau yang terletak di utara pulau Jawa. 
-Di Madura, banyak sekali kebudayaan dan hasil pertanian serta perikanan yang jadi ciri khas dari pulau ini.
-Salah satu contohnya adalah karapan sapi, baju madura dan odengnya, serta bahasa yang digunakan setiap hari. 
-Ciri khas dari orang Madura itu bisa dilihat dari caranya berbicara (intonasi maupun lafalnya), 
-saya pun masih kesusahan untuk belajar bahasa Madura ini. Oh ya, meskipun ada yang bilang kalau orang madura itu 
-banyak yang kasar dan gak sopan, menurutku pendapat itu salah, guys. Fyi, tidak semua orang Madura kaya’ begitu. 
-Malah banyak yang baik banget. Apalagi teman-teman yang ada di kampus, anaknya super baik.</p><br>
+
 <h2>Teknik Informatika</h2>
 <p>Kehidupan mahasiswa Teknik Informatika tentunya tidak akan jauh dari laptop ataupun komputer. 
 Hal tersebut tentunya didukung oleh faktor mata kuliah mereka yang banyak berkaitan dengan laptop ataupun komputer. 
